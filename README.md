@@ -26,7 +26,8 @@
 <br />
 <br />
 
-[GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdhshawon69 &theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdhshawon69)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [twitter]: https://twitter.com/mdhshawon69
 [instagram]: https://www.instagram.com/mahmudul_shaown/
