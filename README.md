@@ -26,15 +26,9 @@
 <br />
 <br />
 
-[https://github-readme-stats.vercel.app/api?username=mdhshawon69]
-
-<!-- [website]: https://codeSTACKr.com -->
-<!-- [course]: http://vsCodeHero.com -->
+[GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdhshawon69 &theme=radical)
 
 [twitter]: https://twitter.com/mdhshawon69
-
-<!-- [youtube]: https://youtube.com/codeSTACKr -->
-
 [instagram]: https://www.instagram.com/mahmudul_shaown/
 [linkedin]: https://www.linkedin.com/in/mahmudul-shawon-a706451b9/
 [facebook]: https://www.facebook.com/profile.php?id=100004614645933
