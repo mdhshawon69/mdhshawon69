@@ -1,4 +1,4 @@
-### Hi, I'm Mahmudu Haque. 👋
+### Hi, I'm MAHMUDUL HAQUE. 👋
 
 ## I'm a Son, Brother, Friend, and Developer!!
 
@@ -25,6 +25,8 @@
 
 <br />
 <br />
+
+![GitHub Stats](https://github-readme-stats.vercel.ap... &theme=radical)
 
 <!-- [website]: https://codeSTACKr.com -->
 <!-- [course]: http://vsCodeHero.com -->
