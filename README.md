@@ -26,7 +26,7 @@
 <br />
 <br />
 
-![GitHub Stats](https://github-readme-stats.vercel.ap... &theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdhshawon69 &theme=radical)
 
 <!-- [website]: https://codeSTACKr.com -->
 <!-- [course]: http://vsCodeHero.com -->
