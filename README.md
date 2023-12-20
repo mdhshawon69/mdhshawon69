@@ -5,7 +5,7 @@
 - 🔭 I am a MERN stack Developer
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2024 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to sing and play guitar
 
 ### Connect with me:
