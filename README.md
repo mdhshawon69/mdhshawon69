@@ -33,5 +33,5 @@
 
 [twitter]: https://twitter.com/mdhshawon69
 [instagram]: https://www.instagram.com/mahmudul_shaown/
-[linkedin]: https://www.linkedin.com/in/mahmudul-shawon-a706451b9/
+[linkedin]: https://www.linkedin.com/in/mahmudul-haque-b1486a252/
 [facebook]: https://www.facebook.com/profile.php?id=100004614645933
